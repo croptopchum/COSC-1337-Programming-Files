@@ -1,3 +1,3 @@
-# -COSC-1337-Programming-Files
+# COSC-1337-Programming-Files
 + hello
 + how are you
